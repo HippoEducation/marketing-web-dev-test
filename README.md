@@ -1,28 +1,22 @@
-# Hippo React Frontend Developer Assessment
+# Hippo Marketing Web Developer Assessment
 
 This exercise is designed to assess how you approach tasks required in your
-position as a Frontend React developer at Hippo. We are interested to see
+position as a marketing web developer at Hippo. We are interested to see
 how you work as well as what your final results are; include useful Git commit
 messages and comments where you think your code may be unclear.
 
 ## Tasks
 
 Using the provided `create-react-app` application in this repo and the [Figma
-designs](https://www.figma.com/file/YgIChNNRe3uchaOJTVMash/Hippo-Frontend-Dev-Test?node-id=0%3A1)
-please complete the following tasks:
+designs](https://www.figma.com/file/XpmGuFa9XqEZhwe8F1Gv5N/Hippo-Marketing-Web-Dev-Test?node-id=0%3A1)
+please complete the following task:
 
-1. Implement the styling for the four main body content areas on the homepage.
-   The text content has already been added to `App.tsx` in placeholder `<span>`
-   tags for your convenience. The images can be found in `Homepage-Images.zip`,
+Implement the styling for the four main body content areas on the homepage.
+The text content has already been added to `App.tsx` in placeholder `<span>`
+tags for your convenience. The images can be found in `Homepage-Images.zip`,
 
-   - Consider how these content blocks might be used on other pages in the site
-     (e.g. product sales pages) and create React Components as appropriate.
-   - Remember to implement the animations described in the 'Animation Note'
-
-2. Complete the Topic Cloud styling & behavior
-
-- Clicking an unselected Specialty should change which Topics are highlighted
-- Remember to implement the selected and hover states for all items
+- Consider how these content blocks might be used on other pages in the site
+  (e.g. product sales pages) and create React Components as appropriate.
 - Remember to implement the animations described in the 'Animation Note'
 
 For any details which are not clear from the designs, for example at what

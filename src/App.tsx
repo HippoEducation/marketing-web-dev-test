@@ -1,6 +1,5 @@
 import React from 'react';
 import ImageGrid from './components/ImageGrid/ImageGrid';
-import TopicCloud from './components/TopicCloud/TopicCloud';
 
 import './App.scss';
 
@@ -66,7 +65,6 @@ function App() {
         </span>
         <h2>See (and Hear) the Hippo Difference for Yourself</h2>
         <ImageGrid />
-        <TopicCloud />
       </div>
     </div>
   );
